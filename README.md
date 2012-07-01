@@ -42,6 +42,6 @@ You will need to be aware of this if you update the Bootstrap files.
 
 License:
 
-Free to use under the terms of any respective H5BP or Twitter Bootstrap Licences.
+Free to use under the terms of any respective Yii, H5BP or Twitter Bootstrap Licences.
 
 The logo license details can be found here: http://www.yiiframework.com/logo/
