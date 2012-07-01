@@ -38,3 +38,9 @@ Tips:
 Don't modify the Bootstrap files. Use the included styles.css and script.js so that you can easily update Bootstrap when necessary.
 However, I have combined bootstrap.min.css and bootstrap-responsive.css as bootstrap-and-responsive.min.css. Why make 2 trips to the server?
 You will need to be aware of this if you update the Bootstrap files.
+
+
+License:
+
+Free to use under the terms of any respective H5BP or Twitter Bootstrap Licences.
+The logo license details can be found here: http://www.yiiframework.com/logo/
