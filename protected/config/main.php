@@ -45,6 +45,7 @@ return array(
 				'contact'=>'site/contact',
 				'page/<view:\w+>'=>'site/page',
 				'/'=>'site/index',
+				'/'=>'index', // I don't like 'index' displayed after certain actions
 				
 				'<controller:\w+>/<id:\d+>'=>'<controller>/view',
 				'<controller:\w+>/<action:\w+>/<id:\d+>'=>'<controller>/<action>',
